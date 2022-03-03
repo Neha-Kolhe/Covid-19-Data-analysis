@@ -25,7 +25,7 @@ worldometer_data.csv - Latest data from https://www.worldometers.info/
 
 1. The Date vs Confirmed cases graph :
 
-   Cases are being increased from Feb 2020 to July 2020
+   Cases have being increased from Feb 2020 to July 2020
 
 2. Day wise CONFIRMED, RECOVERED and DEATHS graph :
 
